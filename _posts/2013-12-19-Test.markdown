@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "First use of Jekyll"
+categories: jekyll fun
+tags: jekyll blog
+---
+This is first time to use `Jekyll`. Not quite sure whether this tool is efficient enough for blogging. I try my best to master this tool and divide into github enviroment.
